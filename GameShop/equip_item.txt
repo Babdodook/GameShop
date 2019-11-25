@@ -1,0 +1,5 @@
+"Weapon" "Long Sword" "sampleDescription" 10 100 100
+"Weapon" "Bastard Sword" "sampleDescription" 10 100 100
+"Weapon" "Claymore" "sampleDescription" 20 100 200
+"Armor" "Leather Armor" "sampleDescription" 10 100 100
+"Armor" "Plate Armor" "sampleDescription" 10 100 200
